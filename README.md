@@ -8,8 +8,9 @@ This repository contains topic-wise Java solutions to Data Structures and Algori
 ## 🗂️ Folder Structure
 DSA-Practice/
 ├── Arrays/
-│ ├── InsertAtEnd.java
-│ └── MoreFrequentElement.java
+│   ├── InsertAtEnd.java
+│   ├── MoreFrequentElement.java
+│   └── BettingGame.java
 ├── Matrix/
 │ └── MakeMatrixBeautiful.java
 ├── README.md
