@@ -1,7 +1,7 @@
 # 📘 DSA-Practice (GFG + Java)
 
 Welcome to my daily DSA practice log!  
-This repository contains topic-wise solutions in **Java**
+This repository contains topic-wise Java solutions to Data Structures and Algorithms problems.
 
 ---
 
@@ -9,4 +9,18 @@ This repository contains topic-wise solutions in **Java**
 DSA-Practice/
 ├── Arrays/
 │ └── InsertAtEnd.java
+├── Matrix/
+│ └── MakeMatrixBeautiful.java
 ├── README.md
+
+
+---
+
+## 📌 Topics Covered So Far
+
+- ✅ Arrays
+- ✅ Matrix
+
+
+
+👩‍💻 Made with ❤️ by Sinchana  
