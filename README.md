@@ -15,8 +15,9 @@ DSA-Practice/
 │   └── PrintPatternWithoutLoops.java
 ├── Matrix/
 │   └── MakeMatrixBeautiful.java
+├── Hash/
+│   └── AsciiRangeSum.java
 ├── README.md
-
 
 
 ---
@@ -25,6 +26,7 @@ DSA-Practice/
 
 - ✅ Arrays
 - ✅ Matrix
+- ✅ Hashing
 
 
 
