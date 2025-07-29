@@ -10,10 +10,13 @@ DSA-Practice/
 ├── Arrays/
 │   ├── InsertAtEnd.java
 │   ├── MoreFrequentElement.java
-│   └── BettingGame.java
+│   ├── BettingGame.java
+│   ├── MeanMedianOfArray.java
+│   └── PrintPatternWithoutLoops.java
 ├── Matrix/
-│ └── MakeMatrixBeautiful.java
+│   └── MakeMatrixBeautiful.java
 ├── README.md
+
 
 
 ---
