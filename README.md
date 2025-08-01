@@ -17,6 +17,8 @@ DSA-Practice/
 │   └── MakeMatrixBeautiful.java
 ├── Hash/
 │   └── AsciiRangeSum.java
+├── Strings/
+│   └── CountBalanced.java
 ├── README.md
 
 
@@ -27,7 +29,7 @@ DSA-Practice/
 - ✅ Arrays
 - ✅ Matrix
 - ✅ Hashing
-
+- ✅ Strings
 
 
 👩‍💻 Made with ❤️ by Sinchana  
