@@ -8,18 +8,23 @@ This repository contains topic-wise Java solutions to Data Structures and Algori
 ## 🗂️ Folder Structure
 DSA-Practice/
 ├── Arrays/
-│   ├── InsertAtEnd.java
-│   ├── MoreFrequentElement.java
-│   ├── BettingGame.java
-│   ├── MeanMedianOfArray.java
-│   └── PrintPatternWithoutLoops.java
+│ ├── InsertAtEnd.java
+│ ├── MoreFrequentElement.java
+│ ├── BettingGame.java
+│ ├── MeanMedianOfArray.java
+│ ├── PrintPatternWithoutLoops.java
+│ ├── AverageOfArrayElements.java
+│ ├── CheckIfSorted.java
+│ ├── countDistinct.java
+│ ├── max_element_in_array.java
+│ └── SumOfArrayElements.java
 ├── Matrix/
-│   └── MakeMatrixBeautiful.java
+│ └── MakeMatrixBeautiful.java
 ├── Hash/
-│   └── AsciiRangeSum.java
+│ └── AsciiRangeSum.java
 ├── Strings/
-│   └── CountBalanced.java
-├── README.md
+│ └── CountBalanced.java
+└── README.md
 
 
 ---
